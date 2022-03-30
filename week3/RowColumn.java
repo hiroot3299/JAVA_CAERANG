@@ -3,9 +3,9 @@ public class RowColumn {
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
-		System.out.print("Çà ÀÔ·Â : ");
+		System.out.print("í–‰ : ");
 		int row = s.nextInt();
-		System.out.print("¿­ ÀÔ·Â : ");
+		System.out.print("ì—´ : ");
 		int column = s.nextInt();
 		int volume = row*column;
 		int array1 [][] = new int[row][column];
