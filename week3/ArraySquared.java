@@ -4,7 +4,7 @@ public class ArraySquared {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		
-		System.out.print("Á¤¼ö ÀÔ·Â : ");
+		System.out.print("ì •ìˆ˜ ìž…ë ¥ : ");
 		int n = s.nextInt();
 		int array1 [][] = new int[n][n];
 		int A = 1;
