@@ -4,6 +4,7 @@ public class IntPlusArray {
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
+		System.out.println("10자리 이하의 정수 입력 : ");
 		int num = s.nextInt();
 		int D = num;
 		int i, j, k, value;
