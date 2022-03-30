@@ -4,9 +4,9 @@ public class ArraySnake {
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
-		System.out.print("Çà : ");
+		System.out.print("í–‰ : ");
 		int row = s.nextInt();
-		System.out.print("¿­ : ");
+		System.out.print("ì—´ : ");
 		int column = s.nextInt();
 		int array[][] = new int[row][column];
 		int i,j,k,l;
